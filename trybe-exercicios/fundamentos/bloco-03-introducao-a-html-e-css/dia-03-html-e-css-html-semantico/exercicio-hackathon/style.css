@@ -10,7 +10,7 @@ h1 {
     width: 200px;
     text-align: center;
     display: block;
-    margin-left: 200px;
+    margin: auto;
   }
 
   .second {
@@ -30,3 +30,11 @@ h1 {
     width: 300px;
     display: inline-block
   }
+
+li {
+  display: inline-block;
+  }
+
+section{
+  text-align: center;
+}
