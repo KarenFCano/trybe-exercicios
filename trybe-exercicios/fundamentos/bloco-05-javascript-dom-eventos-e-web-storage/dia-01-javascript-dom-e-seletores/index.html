@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <header>
+      <h2 id="page-title">Título</h2>
+      <p class="film">Dê uma cor para este parágrafo!</p>
+      <h4 id="subtitle">Subtítulo</h4>
+      <p class="film">Segundo parágrafo!</p>
+
+
+    </header>
+    <script>
+          
+      const teste = document.getElementsByClassName("film")[0];
+      teste.style.color = "blue";
+
+      const teste2 = document.getElementsByClassName("film")[1];
+      teste2.style.backgroundColor = "blue";
+
+      document.getElementById("page-title").innerText = "A felicidade não se compra";
+
+      document.getElementById("second-paragraph").innerText = "Filme sobre a história de um homem e sua vida de mudanças e constante busca em fazer o que era certo antes de satisfazer seus caprichos.";
+      
+      document.getElementById("subtitle").innerText = "Sinopse";
+   
+    </script>
+  </body>
+</html>  
