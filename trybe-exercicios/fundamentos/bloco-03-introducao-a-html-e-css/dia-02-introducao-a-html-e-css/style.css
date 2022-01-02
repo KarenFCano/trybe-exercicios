@@ -1,0 +1,29 @@
+h1{
+    font-family: sans-serif;
+   text-decoration: underline;
+  }
+  
+  p{
+   font-weight: 600;
+   font-size: 3em;
+  }
+
+  body{
+   font-size: 16px;
+   font-style: bold;
+   line-height: 50px;
+   text-align: center;
+ }
+
+ #l1{
+   color: yellow;
+ }
+
+ #l2{
+   color: red;
+ }
+
+
+ #l3{
+   color: brown;
+ }
