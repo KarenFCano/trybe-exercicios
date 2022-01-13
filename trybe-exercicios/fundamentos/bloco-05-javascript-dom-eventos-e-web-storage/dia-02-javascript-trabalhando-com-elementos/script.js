@@ -72,5 +72,3 @@ const pai = document.getElementById('pai');
     const segundoEUltimoFilhoDoFilho = document.getElementById('segundoEUltimoFilhoDoFilho');
     segundoEUltimoFilhoDoFilho.remove();
 
-  let consolar = document.querySelector('.pai');
-  console.log(consolar);

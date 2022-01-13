@@ -1,0 +1,39 @@
+nav li{
+    display: inline;
+    margin-inline: 50px;
+    margin-left: 130px;
+  }
+
+header{
+    text-align: center;
+  }
+
+.princ{
+    width: 600px;
+}
+
+.images{
+    border: 5px solid green;
+    width: 300px;
+}
+
+section{
+    display:inline-block
+    text-align: center;
+
+}
+
+aside{
+    display: inline-block;
+    margin-left: 60px;
+    float: right;
+    position: absolute;
+    border: 8px solid greenyellow;
+
+}
+
+article{
+    display: inline-block;
+    width: 50%;
+}
+
